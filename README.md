@@ -25,3 +25,5 @@ This is a NinjaTrader strategy called `LazyRiverStrategy`. It's a scalping strat
     - The close price is below the pivot point.
 
 Please note that this is a simplified explanation. The actual trading logic might be more complex and involve additional conditions or checks. Always thoroughly backtest any trading strategy before live trading.
+
+If you have any ideas how to improve the strategy please let me know?

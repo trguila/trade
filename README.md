@@ -1,2 +1,2 @@
-# trade
-Trade Website
+# Ninjatrader
+Strategy Website
